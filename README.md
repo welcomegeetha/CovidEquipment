@@ -19,7 +19,7 @@ What you can do in this project:
 
 ####Code Work Flow:
 
-![CodeWorkFlow](images/COH_CodeWorkFlow.PNG)
+![CodeWorkFlow](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/COH_CodeWorkFlow.png)
 
 ####Screen1:
 
