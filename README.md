@@ -13,7 +13,7 @@ What you can do in this project:
 * Save Data To Excel
 
 ####Data Model:
-![DataModel](images\COH_DataModel.PNG)
+![DataModel](images/COH_DataModel.PNG)
 
 ####Code Work Flow:
 ![CodeWorkFlow](images/COH_CodeWorkFlow.PNG)
