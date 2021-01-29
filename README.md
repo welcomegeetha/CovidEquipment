@@ -12,24 +12,24 @@ What you can do in this project:
 * Delete Data(Manually or bulk)
 * Save Data To Excel
 
-####Data Model:
+#### Data Model:
 
 ![DataModel](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/COH_DataModel.PNG)
 
 
-####Code Work Flow:
+#### Code Work Flow:
 
 ![CodeWorkFlow](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/COH_CodeWorkFlow.png)
 
-####Screen1:
+#### Screen1:
 
 ![Initial Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen1.png)
 
-####Screen2:
+#### Screen2:
 
 ![Create Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen2Create.png)
 
-####Screen3:
+#### Screen3:
 
 ![Update Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen3Update.png)
 
