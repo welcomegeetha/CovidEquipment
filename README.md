@@ -14,7 +14,7 @@ What you can do in this project:
 
 ####Data Model:
 
-![DataModel](images/COH_DataModel.PNG)
+![DataModel](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/COH_DataModel.PNG)
 
 
 ####Code Work Flow:
@@ -23,13 +23,13 @@ What you can do in this project:
 
 ####Screen1:
 
-![Initial Page](images/Equipment_Screen1.PNG)
+![Initial Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen1.png)
 
 ####Screen2:
 
-![Create Page](images/Equipment_Screen2Create.PNG)
+![Create Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen2Create.PNG)
 
 ####Screen3:
 
-![Update Page](images/Equipment_Screen3Update.PNG)
+![Update Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen3Update.PNG)
 
