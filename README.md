@@ -27,9 +27,9 @@ What you can do in this project:
 
 ####Screen2:
 
-![Create Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen2Create.PNG)
+![Create Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen2Create.png)
 
 ####Screen3:
 
-![Update Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen3Update.PNG)
+![Update Page](https://github.com/welcomegeetha/CovidEquipment/blob/main/images/Equipment_Screen3Update.png)
 
